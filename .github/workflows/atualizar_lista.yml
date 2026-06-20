@@ -34,7 +34,7 @@ jobs:
     # 5. Salva a nova lista gerada de volta no seu GitHub
     - name: Commitar e dar Push na Lista Atualizada
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
         git config --local user.name "JulioCesarXY"
         git add lista_canais_com_logos.m3u
         
