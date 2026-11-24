@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA1tXHJ9lMjjOlwRhdpGib6Z39QLKlBldHmHCTmZh2p3YqPBmlG32g-hK79fDIS4U9DE5ScppDvArf3V86OH_7SafjTVazPqAotCDmop9yWxDR8yk5Gfd8sDbc0PvOHbt33eRN38g5SK5ZkfMgK45I4HyI476Z2aJOyti4qcbHpkqWSY3RolI9EmTaMAg/s200/BAND.webp",BAND
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv68xjWCnNLU5yVel0CHnB6HkBuACJ-69dY5VI_COJJQ9slZvWIDmvSAH-e4bVYSmPmnABoO1SIcg5kJGaC4D9kfM3ZXrVuEM_dN3-ifsBnYoeizsyLZwaaUsT9jOKHmjcT9BBta_p36veEuD1sJBGG4kK47N4_p4fiJ5Rp-wy4ewwo13pLU_yELfj9lk/s200/CARAVANA%20PLAY.webp",CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSQQo7JRPAY5a40sPvbohInscrJIEd3ywl453CS_1GCQ9iQS-GfA-wRkEexaOla3ishSWiVADpP-UuL1Psg3QakGOcMQORka_FJOfMXH6FAZycstVXO932p965A3N1NjZ4XRkcbVLF_7Z0d0HjxTwOrzcfhmlS9icL2iM4ttFqYpxQER2SVNNouEwpeJw/w200-h100/REDE%20CLOUDING%20TV.webp",CLOUDING TV
 https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5to2O9SN87Nux5-UrlPESxuhDOQFlzua3tHO3T91QpQwlzyvkY9FNB3ebNjxyhGE7ufyRImLUEt9Ycoq3nqAEIioR_NO1Uy0PeL543NO2yXDgmUkiqlY2oYCZOAb2kveDdZPUS5qwjRMTc5nS_LKL_R2cGIypwVh18cMASvjy50Gcdr81d4FTsZy3rI/s200/AWTV.webp",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp",RETRÔ CARTOON
-https://stmv2.srvif.com/rcartoon/rcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6DywynYz8x-lbPSkIvexnTE-H8-ix-wHLq0iRdacC-emGJ6xYRY7uh-HpjOvbyu-GCPQtRQOloSbG_9-iGQz3K_vLc23GLMHJIvclUBpuApIfkvqU66IaYy1k12V3JJPvuSGUcmnTAQH4U_NiSjQCM4vEjr58AIn2jhZXHXOIstPHbyUj-qlX7dG8qP4/s200/TV%20ARACATI.webp",TV ARACATI
-https://srt01.logicahost.com.br/kc_tvaracati/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9neMeS5wIUTyJHMMDL88fXdr3-HPuc5ou2ElJNIyxhI6uhVKDgnqzVFQXJu6J1jENwrIXBRClmpmdaGm1G1ZJrjALuRKXm-qtL2Ti3lHz1cBAZbv56_Czn7P3kIkE0jRuD237-iH5Nlmf3yjvCvAB1vJNg1HjPCyoB8TsF2HavI4gLw2GAyRAR9QzVk/w200-h100/CINE%20CAT%C3%81STROFE.webp",CINE CATÁSTROFE
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyYk04xPN9BqNUp2wTNHdBXT-ditjpqGsRK9lloeRewhM42VFbkOx5WqiDkMrVFeQMpOHW-H0rHkDspCrnAAx5KXLPhYtGEqlfS_UFaiOzISAajt3Kfkm5VdsQsEOJujxGdTK9huDCyFAyG3DBvRz0PSDPizS6NldTdFBPxGoZ0oFC1BpVKobDBUQf/w200-h100/TV%20COOP%20SC.jpg",TV COOP SC
-https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjevhlTy5lbPHleGcOmuf9n9gu8IuRSSHswvE6qaUBE9uGF4DX2lt5vHzym7YSAatz5zfJl9Q5BASbCzxMcxksHy9GwgXcMhSTlguJd0j5TGnsBnf6h4-4BPSTBGz3JZfl54dnYmlyH-pG0K8FuhDWkF8wzqeqXk7rY9csdx_6iTbNepCzeE_RaE9NldZQ/w200-h100/SWT.webp",SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidI6vX-G9Rx94B57uf6cVgXqLR9oV5LmYDt7p0UseZTrBDlQWxbAyy1NBxNBKz3Vf9YUUZanaJt32qvkocCfDBuAKINz6WKghzSGk3QYX-lplCCHTWZAe-7xkFyKoNRi7xyG27n6eBVg2TOdWS_n-z6lLwtNSrM5Ie_H5X9qGyEBrMIaf5djnBL9nEUWc/s200/REVIVA%20TV.webp",REVIVA TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizaaz2q5gh_LZSOleJw7yQb9FNnwH6ZJjFeaex4WhwFEueZmsB1YccrStJeEiMgbAEgNScQrY3-FD1WTMnRcvHAx9JBpKhD4lbNabtYO7SMBoWwSYD7sqMkkL8cwU6Som028A6ohp4Xr7B-kVjAnXWtOjyo2_Wme3RF4Sk61dhkyLC0cpcTX2AdQxhjMM/s200/LUCAS%20TV.webp",LUCAS TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
